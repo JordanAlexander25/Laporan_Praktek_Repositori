@@ -1,2 +1,3 @@
 ini file home
 ini editan file
+ini editan prog2
